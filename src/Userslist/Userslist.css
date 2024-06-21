@@ -1,0 +1,11 @@
+.card{
+    width:300px;
+    height:350px;
+}
+img{
+    width:120px;
+    height:120px;
+}
+.card-body{
+    font-size:1.05rem;
+}

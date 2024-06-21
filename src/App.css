@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+
+.App-main {
+  padding: 20px;
+}
+
+button {
+  padding: 10px;
+  background-color: #61dafb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4fa3d1;
+}
